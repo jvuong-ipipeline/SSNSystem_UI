@@ -19,7 +19,8 @@
                     <ul class="nav navbar-nav navbar-right" id="nav_fontSize">
                         <li class="active" role="presentation"><a href="#"> Application </a></li>
                         <li role="presentation"><a href="#">Check Status</a></li>
-                        <li role="presentation"><a href="#">Contact </a></li>
+                        <li role="presentation"><a href="Student_Contact.aspx">Contact </a></li>
+                        <li><a href="default.aspx">Sign Out </a></li>
                     </ul>
                 </div>
             </div>
