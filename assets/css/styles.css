@@ -1,0 +1,36 @@
+#nav_fontSize {
+  font-size:1.5em;
+}
+
+
+
+@media (max-width:1200px) {
+  .stack {
+    display:block;
+  }
+}
+
+#footer-bottom-fixed {
+  position:fixed;
+  left:0;
+  bottom:0;
+}
+
+body, html {
+  height:auto;
+}
+
+#wrap {
+  height:100vh;
+}
+
+@media (min-width:993px) {
+  .stack {
+    margin-right:30px;
+  }
+}
+
+.form-group {
+  margin-bottom:30px;
+}
+
